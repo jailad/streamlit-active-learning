@@ -2,6 +2,9 @@
 
 * A simple proof of concept of implementing Active Learning with Streamlit and modAL.
 
+# Live Demo
+* https://share.streamlit.io/jailad/streamlit-active-learning/main/streamlit_active_learning_poc.py
+
 # Installation
 * Create a Python 3.6.8 environment ( for example with Conda ).
 * Activate the environment.

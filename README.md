@@ -35,11 +35,11 @@
 ## Phase-3.1 : Active Learning
 * The first phase of the process involves collecting labels actively from the user. 
 
-![image info](/images/img3_act_learning_eval.png)
+![image info](/images/img3_act_learning.png)
 
 ## Phase-3.2 : Continuous Evaluation
 
-![image info](/images/img3_act_learning.png)
+![image info](/images/img3_act_learning_eval.png)
 
 # Learnings so far:
 * <b>Streamlit </b>

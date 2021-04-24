@@ -38,6 +38,7 @@
 ![image info](/images/img3_act_learning.png)
 
 ## Phase-3.2 : Continuous Evaluation
+* With each round of active learning, we continuously evaluate model performance on a test dataset.
 
 ![image info](/images/img3_act_learning_eval.png)
 
